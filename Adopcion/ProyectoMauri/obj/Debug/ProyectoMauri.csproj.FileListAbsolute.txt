@@ -1,0 +1,13 @@
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.exe.config
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.exe
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.pdb
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.csproj.CoreCompileInputs.cache
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.exe
+C:\Users\TNK\source\repos\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.pdb
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.exe.config
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.exe
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\bin\Debug\ProyectoMauri.pdb
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.csprojAssemblyReference.cache
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.exe
+C:\Users\giova\Downloads\ProyectoMauri\ProyectoMauri\obj\Debug\ProyectoMauri.pdb

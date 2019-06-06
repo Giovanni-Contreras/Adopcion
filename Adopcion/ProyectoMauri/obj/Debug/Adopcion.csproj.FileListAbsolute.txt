@@ -1,0 +1,7 @@
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\bin\Debug\ProyectoMauri.exe.config
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\bin\Debug\ProyectoMauri.exe
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\bin\Debug\ProyectoMauri.pdb
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\obj\Debug\Adopcion.csprojAssemblyReference.cache
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\obj\Debug\Adopcion.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\obj\Debug\ProyectoMauri.exe
+C:\Users\giova\Documents\UTSC\7° Cuatrimestre\Programacion de Aplicaciones\2° Parcial\Adopcion\ProyectoMauri\obj\Debug\ProyectoMauri.pdb
